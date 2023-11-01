@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on [MERN Video Streaming](https://github.com/foyzulkarim/mern-video-streaming)
 
 - 📫 How to reach me **anindahalder052@gmail.com**
 
