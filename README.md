@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aninda052&label=Profile%20views&color=0eb421&style=flat" alt="aninda052" /> </p>
 
-- 🔭 I’m currently working at [Futionread](https://dev.fusionread.com/)
+- 🔭 I’m currently working at [Friends Corp.](https://www.teamfriends.co.jp/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
